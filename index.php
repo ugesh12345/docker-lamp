@@ -1,9 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
 <?php
+echo "<h2>PHP is Fun!</h2>";
+echo "Hello world!<br>";
+echo "I'm about to learn PHP!<br>";
+echo "This ", "string ", "was ", "made ", "with multiple parameters.";
+?> 
 
-# Sample index.php file for fauria/lamp Docker image.
-# To use your own website instead, please refer to the documentation:
-# https://registry.hub.docker.com/u/fauria/lamp/
-
-phpinfo();
-
-?>
+</body>
+</html>
